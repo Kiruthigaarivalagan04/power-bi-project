@@ -3,13 +3,13 @@ Order & Revenue Dashboard (Power BI)
 This project is an Order and Revenue Analysis Dashboard created using Power BI Desktop.
 It provides insights into sales performance, revenue trends, product-wise sales, and customer behavior.
 
-🔧 Tools & Technologies
+>>Tools & Technologies
 
 Power BI Desktop
 
 Excel (Data Source)
 
-📈 Key Features
+>>Key Features
 
 Total Revenue and Order Analysis
 
